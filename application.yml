@@ -3,7 +3,7 @@ server:
   address: 0.0.0.0
 lavalink:
   server:
-    password: "yoursupersecretpassword"
+    password: ""
     sources:
       youtube: true
       bandcamp: true
