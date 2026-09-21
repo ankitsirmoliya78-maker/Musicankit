@@ -1,1 +1,22 @@
-
+server:
+  port: 2333
+  address: 0.0.0.0
+lavalink:
+  server:
+    password: "yoursupersecretpassword"
+    sources:
+      youtube: true
+      bandcamp: true
+      soundcloud: true
+      twitch: true
+      http: truer
+      local: true
+    bufferDurationMs: 400
+    youtubeSearchEnabled: true
+logging:
+  file:
+    max-history: 30
+  level:
+    root: INFO
+    lavalink: INFO
+    
