@@ -9,7 +9,7 @@ lavalink:
       bandcamp: true
       soundcloud: true
       twitch: true
-      http: truer
+      http: true
       local: true
     bufferDurationMs: 400
     youtubeSearchEnabled: true
